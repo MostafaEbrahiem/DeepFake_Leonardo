@@ -1,8 +1,9 @@
 # DeepFake_Leonardo
 A deep fake project using DeepFakeLab
 
-![GIF-220502_162859](https://user-images.githubusercontent.com/88105870/166254461-40d9bba2-d80f-4b34-ac8b-7f7fc596bf57.gif) ![GIF-220503_003346](https://user-images.githubusercontent.com/88105870/166638607-ea377725-3b7e-4041-ad1c-8b8ad5d8fa17.gif)
+![GIF-220502_162859](https://user-images.githubusercontent.com/88105870/166254461-40d9bba2-d80f-4b34-ac8b-7f7fc596bf57.gif) 
 
+![GIF-220503_003346](https://user-images.githubusercontent.com/88105870/166638607-ea377725-3b7e-4041-ad1c-8b8ad5d8fa17.gif)
 
 Steps :- 
 
